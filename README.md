@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Syed Asher Ahmed Kazmi]!
+# Hi there 👋, I'm Syed Asher Ahmed Kazmi!
 
 Welcome to my GitHub profile! I'm a **Computer Scientist** with a passion for full-stack web development, machine learning, and creating innovative applications. Currently, I'm expanding my skills in **NEXT.js** and **Data Science**, and I am always eager to explore new technologies. I have hands-on experience in **MERN Stack** technologies and **Laravel** framework.
 
