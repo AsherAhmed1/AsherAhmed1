@@ -22,9 +22,9 @@ Welcome to my GitHub profile! I'm a **Computer Scientist** with a passion for fu
 
 ---
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ---
 
