@@ -22,12 +22,6 @@ Welcome to my GitHub profile! I'm a **Computer Scientist** with a passion for fu
 
 ---
 
-<!-- ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-
----
-
 ## 📂 Projects
 - **[VisuMeet](https://github.com/yourusername/visumeet):** A video interview platform built with **MERN Stack** and integrated with **AI models** for sentiment analysis and emotion detection.
 - **[Emotion Detection System](https://github.com/yourusername/emotion-detection):** A **speech emotion detection** project using the **RAVDESS dataset**, applying deep learning techniques.
@@ -36,7 +30,7 @@ Welcome to my GitHub profile! I'm a **Computer Scientist** with a passion for fu
 ---
 
 ## 📫 Connect with Me
-- 🌐 **Portfolio:** [yourportfolio.com](https://www.asherahmed.vercel.app)
+- 🌐 **Portfolio:** [yourportfolio.com](https://asherahmed.vercel.app/)
 - 💼 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/asherahmed1)
 
 ---
