@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a **Computer Scientist** with a passion for fu
 - 🌱 **Currently learning:** Expanding my knowledge in **Next.js** and **Data Science**.
 - 💼 **Currently working on:** Enhancing **web applications** with **AI models** and exploring **data-driven solutions**.
 - 📝 **Writing about:** **Web development**, **MERN Stack**, and **AI/ML**.
-- 🔬 **Research Paper:** I have authored two research papers one **Comparative Analysis of CNN, VGG-16, and LSTM in Facial Emotion Identification** and the second is **(Em-Powering Web Applications with Machine Learning: A Convergence Study)**
+- 🔬 **Research Paper:** I have authored two research papers one **(Comparative Analysis of CNN, VGG-16, and LSTM in Facial Emotion Identification) submitted to the journal** and the second is **(Em-Powering Web Applications with Machine Learning: A Convergence Study) work in progress**
 - 🎯 **Goal:** To contribute to the development of scalable, user-centric applications and be a part of innovative projects that merge technology and creativity.
 
 ---
@@ -23,15 +23,15 @@ Welcome to my GitHub profile! I'm a **Computer Scientist** with a passion for fu
 ---
 
 ## 📂 Projects
-- **[VisuMeet](https://github.com/yourusername/visumeet):** A video interview platform built with **MERN Stack** and integrated with **AI models** for sentiment analysis and emotion detection.
-- **[Emotion Detection System](https://github.com/yourusername/emotion-detection):** A **speech emotion detection** project using the **RAVDESS dataset**, applying deep learning techniques.
-- **[Job Portal](https://github.com/yourusername/job-portal):** A **MERN Stack** job portal that allows users to post and search for job opportunities.
+- **[VisuMeet](https://github.com/AsherAhmed1/Final-Year-Project):** A video interview platform built with **MERN Stack** and integrated with **AI models** for sentiment analysis and emotion detection.
+- **[Emotion Detection System](https://github.com/AsherAhmed1/Final-Year-Project):** A **speech emotion detection** project using the **RAVDESS dataset**, applying deep learning techniques.
+- **[Job Portal](https://github.com/AsherAhmed1/Job-Portal):** A **MERN Stack** job portal that allows users to post and search for job opportunities.
   
 ---
 
 ## 📫 Connect with Me
-- 🌐 **Portfolio:** [yourportfolio.com](https://asherahmed.vercel.app/)
-- 💼 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/asherahmed1)
+- 🌐 **Portfolio:** [Asher Ahmed](https://asherahmed.vercel.app/)
+- 💼 **LinkedIn:** [Asher Ahmed](https://www.linkedin.com/in/asherahmed1)
 
 ---
 
