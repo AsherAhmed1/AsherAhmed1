@@ -5,7 +5,9 @@ Welcome to my GitHub profile! I'm a **Computer Scientist** with a passion for fu
 ---
 
 ## 🚀 About Me
-- 🌱 **Currently learning:** Expanding my knowledge in **Next.js** and **Data Science**.
+- 🎓 **Education:** Bachelor’s in Computer Science from [University of Central Punjab](https://ucp.edu.pk/) (2020 - 2024)
+- 💼 **Experience:** Enablers, Lahore University of Management Sciences (LUMS), CodSoft, and Fiverr/Upwork
+- 🌱 **Currently learning:** Expanding my knowledge in **Next.js**, **Data Science**, and **Artificial Intelligence and Machine Learning**.
 - 💼 **Currently working on:** Enhancing **web applications** with **AI models** and exploring **data-driven solutions**.
 - 📝 **Writing about:** **Web development**, **MERN Stack**, and **AI/ML**.
 - 🔬 **Research Paper:** I have authored two research papers one **(Comparative Analysis of CNN, VGG-16, and LSTM in Facial Emotion Identification) submitted to the journal** and the second is **(Em-Powering Web Applications with Machine Learning: A Convergence Study) work in progress**
@@ -32,6 +34,12 @@ Welcome to my GitHub profile! I'm a **Computer Scientist** with a passion for fu
 ## 📫 Connect with Me
 - 🌐 **Portfolio:** [Asher Ahmed](https://asherahmed.vercel.app/)
 - 💼 **LinkedIn:** [Asher Ahmed](https://www.linkedin.com/in/asherahmed1)
+
+---
+
+![](https://github-readme-stats.vercel.app/api?username=AsherAhmed1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AsherAhmed1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AsherAhmed1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
