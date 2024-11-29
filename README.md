@@ -44,3 +44,4 @@ Welcome to my GitHub profile! I'm a **Computer Scientist** with a passion for fu
 ---
 
 Thanks for visiting my profile! Let's connect and build something amazing together. 😊
+You can reach me through my email. 📫
